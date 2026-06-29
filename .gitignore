@@ -1,0 +1,18 @@
+# Virtual Environment
+qenv/
+.venv/
+env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Dynamic Local Outputs (Optional: Keep if you want to upload your initial charts)
+# Output/latest_batch_distribution.png
