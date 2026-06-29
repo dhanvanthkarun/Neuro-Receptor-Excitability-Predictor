@@ -26,5 +26,6 @@ NREP utilizes a modular architecture designed for local Ubuntu environments:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/dhanvanthkarun/NREP.git](https://github.com/dhanvanthkarun/NREP.git)
-cd NREP
+git clone [https://github.com/dhanvanthkarun/Neuro-Receptor-Excitability-Predictor.git]
+cd Neuro-Receptor-Excitability-Predictor
+
